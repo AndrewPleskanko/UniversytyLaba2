@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laba2ops</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="urlCat">https://vetericyn.com/Vetericyn/wp-content/uploads/2021/10/My-Cats-Eye-Is-Swollen-What-Does-This-Mean2.jpg</string>
+    <string name="urlDog">https://www.clipartmax.com/png/middle/262-2628268_gfycat-url-animation-dog-walking-gif.png</string>
+    <string name="urlOwl">https://ca-times.brightspotcdn.com/dims4/default/67694a4/2147483647/strip/false/crop/7958x5577+0+0/resize/1486x1041!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F44%2F7482a5f343389c5d4c0717c33f09%2Fla-me-snowy-owl-cypress-rare-birdwatching-rr-20221230-1.jpg</string>
+
+    <string name="allDescriptionCat">Cats are elegant and graceful animals with soft, fluffy fur and amazing eyes that allow them not to see in the dark. They are masters of communication, able to speak with the help of purrs, meows and other sounds. Cats are very curious and exploratory moods, so they often spend a lot of time closing the world around them.</string>
+    <string name="allDescriptionDog">Dogs are charming, energetic and loyal animals that are always ready to support their owner. They are devoted, faithful and never tire of playing and running. Dogs also have excellent feelings - they know how to feel the emotions of their owner and even help to cope with them. The dogs are very communicative and easily learn the command, so they can be not only friends, but also useful helpers in everyday life.</string>
+    <string name="allDescriptionOwl">Owls are mysterious and wise creatures associated with the night and secrets. Owls are known for their unique ability to fly silently, which makes them invisible to other animals. They are also considered a symbol of wisdom and intelligence, many cultures believe that owls can foretell the future and even the spirit world. Some species of owls can even turn their heads 270 degrees, which makes them even more mysterious and amazing creatures.</string>
+
+</resources>
