@@ -22,28 +22,28 @@ class FragmentFirst : Fragment(), AnimalsAdapters.Listener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        var lion = Animal(
+        var cat = Animal(
             "Cat",
             "Real little king",
             getString(R.string.urlCat),
             getString(R.string.allDescriptionCat)
         )
-        var zebra = Animal(
+        var dog = Animal(
             "Dog",
             "Faithful friend",
             getString(R.string.urlDog),
             getString(R.string.allDescriptionDog)
         )
-        var mouse = Animal(
+        var owl = Animal(
             "Owl",
             "Symbol of wisdom",
             getString(R.string.urlOwl),
             getString(R.string.allDescriptionOwl)
         )
 
-        animals.add(lion)
-        animals.add(zebra)
-        animals.add(mouse)
+        animals.add(cat)
+        animals.add(dog)
+        animals.add(owl)
         adapter = AnimalsAdapters(this, animals, this)
     }
 
